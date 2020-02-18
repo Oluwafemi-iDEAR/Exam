@@ -1,0 +1,2 @@
+2a. A small fashion outfit approached you for web maintenance. You are required to add two basic forms on seperate pages. one form for registration and the other will be a contact form and will collect user's email and the feedback they want to give.
+write a basic registration and contact form application that collects the firstname, lastname, email address and feedback of the users and stores in local storage
